@@ -23,3 +23,9 @@ body{
     backdrop-filter: blur(8px);
     color:black;
 }
+
+@media screen and (max-width:(600px)) {
+    #clock{
+        font-size: 4rem;
+    }
+}
